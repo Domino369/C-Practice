@@ -1,0 +1,10 @@
+Complexity and Big-O Notation
+
+Complexity			Number of Elements
+Type		Notation	1 2 5  10  50    100    1,000     10,000
+---------------------------------------------------------------------------
+Constant	O(1)		1 1 1  1   1     1      1         1
+Logarithmic	O(log(n))	1 2 3  4   6     7      10        13
+Linear		O(n)		1 2 5  10  50    100    1,000     10,000
+n-log-n		O(n*log(n))	1 4 15 40  300   700    10,000    130,000
+Quadratic	O(n^2)		1 4 25 100 2,500 10,000 1,000,000 100,000,000
